@@ -1342,38 +1342,6 @@ EFEK HOVER GAMBAR
 
 }
 
-
-/*======================================================
-LABEL PRODUK
-======================================================*/
-
-.product-card::before{
-
-    content:"Produk Unggulan";
-
-    position:absolute;
-
-    top:18px;
-
-    left:18px;
-
-    background:var(--orange);
-
-    color:#fff;
-
-    font-size:13px;
-
-    padding:7px 14px;
-
-    border-radius:30px;
-
-    z-index:5;
-
-    font-weight:600;
-
-}
-
-
 /*======================================================
 ANIMASI MASUK
 ======================================================*/
