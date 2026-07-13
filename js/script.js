@@ -561,96 +561,96 @@ const members = [
 {
     nama:"Supriyadi",
     kota:"Bandung",
-    foto:"assets/testimoni/a1.png"
+    foto:"assets/testimoni/a1.webp"
 },
 
 {
     nama:"Bambang",
     kota:"Makassar",
-    foto:"assets/testimoni/a2.png"
+    foto:"assets/testimoni/a2.webp"
 },
 
 {
     nama:"Nurhayati",
     kota:"Yogyakarta",
-    foto:"assets/testimoni/a3.png"
+    foto:"assets/testimoni/a3.webp"
 },
 
 {
     nama:"Dewi Puspita",
     kota:"Surabaya",
-    foto:"assets/testimoni/a4.png"
+    foto:"assets/testimoni/a4.webp"
 },
 
 {
     nama:"Putri Utami",
     kota:"Cianjur",
-    foto:"assets/testimoni/a5.png"
+    foto:"assets/testimoni/a5.webp"
 },
 
 {
     nama:"Kadek Maharani",
     kota:"Denpasar",
-    foto:"assets/testimoni/a6.png"
+    foto:"assets/testimoni/a6.webp"
 },
 
 {
     nama:"Sri Wahyuni",
     kota:"Yogyakarta",
-    foto:"assets/testimoni/a7.png"
+    foto:"assets/testimoni/a7.webp"
 },
 
 {
     nama:"Ayu Lestari",
     kota:"Pemalang",
-    foto:"assets/testimoni/a8.png"
+    foto:"assets/testimoni/a8.webp"
 },
 {
     nama:"Clarissa",
     kota:"Bandung",
-    foto:"assets/testimoni/a9.png"
+    foto:"assets/testimoni/a9.webp"
 },
 
 {
     nama:"Mauren",
     kota:"Sleman",
-    foto:"assets/testimoni/a10.png"
+    foto:"assets/testimoni/a10.webp"
 },
 
 {
     nama:"Nirmala",
     kota:"Sukabumi",
-    foto:"assets/testimoni/a11.png"
+    foto:"assets/testimoni/a11.webp"
 },
 
 {
     nama:"Nabila",
     kota:"Banten",
-    foto:"assets/testimoni/a12.png"
+    foto:"assets/testimoni/a12.webp"
 },
 
 {
     nama:"Arunika",
     kota:"Cianjur",
-    foto:"assets/testimoni/a13.png"
+    foto:"assets/testimoni/a13.webp"
 },
 
 {
     nama:"Laras",
     kota:"Ponorogo",
-    foto:"assets/testimoni/a14.png"
+    foto:"assets/testimoni/a14.webp"
 },
 
 {
     nama:"Amanda",
     kota:"Sumedang",
-    foto:"assets/testimoni/a15.png"
+    foto:"assets/testimoni/a15.webp"
 },
 
 {
     nama:"Adinda",
     kota:"Majalengka",
-    foto:"assets/testimoni/a16.png"
+    foto:"assets/testimoni/a16.webp"
 },
 
 ];
